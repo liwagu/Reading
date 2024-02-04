@@ -1,1 +1,1 @@
-share my epub resources, welcome pull requests.
+share my e-book resources, welcome pull requests.
